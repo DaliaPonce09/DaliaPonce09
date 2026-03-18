@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hola soy Dalia Ponce
 🎓 Estudiante de Licenciatura en Ingeniería en Tecnologías de la Información e Innovación Digital<br><br>Soy una persona apasionada, animada y productiva que disfruta aprender constantemente sobre tecnología. Me encanta crear aplicaciones web y móviles que resuelvan problemas reales, explorar el mundo de las bases de datos, y actualmente me encuentro aprendiendo ciberseguridad, porque creo que el futuro digital debe ser seguro, confiable e innovador.<br><br>🚀 Siempre estoy buscando aprender algo nuevo, colaborar en proyectos interesantes y seguir creciendo como desarrolladora.
 
 
